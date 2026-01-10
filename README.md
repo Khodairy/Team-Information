@@ -57,7 +57,7 @@ TeamInfo is a comprehensive landing page designed to showcase detailed informati
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/Khodairy/TeamInfo.git](https://github.com/Khodairy/TeamInfo.git)
+git clone https://github.com/Khodairy/Team-Information.git
 ```
 
 2. **Navigate to the directory:**
